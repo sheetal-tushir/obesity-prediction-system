@@ -146,6 +146,7 @@ with gr.Blocks(theme=gr.themes.Soft(primary_hue="blue", neutral_hue="slate")) as
     ---
     ### 👨‍💻 About the Developer
     **Developer**:Sheetal
+    """)
     # Wire up the logic
     input_components = [
         Age, Gender, Height, Weight, CALC, SCC, CAEC, FAVC, FCVC, NCP,
